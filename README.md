@@ -25,7 +25,8 @@ An AI-powered tag-based recipe generator web application that creates recipes fr
 
 ### Installation
 
-1. **Clone the repository**
-2. **Install the dependencies** npm install
-3. **Insert your api key in the .env file by copying the .env-example file**
-4. **Run the project** npm run dev
+1. **Install the repository**
+2. **Unzip the file**
+3. **Install the dependencies** npm install
+4. **Insert your api key in the .env file by copying the .env-example file**
+5. **Run the project** npm run dev
